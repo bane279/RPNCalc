@@ -3,7 +3,7 @@ import cucumber.api.java.en.Then;
 import junit.framework.TestCase;
 
 
-public class TestDriver extends TestCase{
+public class Driver extends TestCase{
 	
 	RPNCalc calc = new RPNCalc();
 	String input;
